@@ -59,7 +59,10 @@ font-family:'Poppins',
     margin: 20px 0 0;}
         .content p{font-size: 14px;
         }
-
+.logo{max-width: 150px;}
+nav ul{padding: 0;}
+nav li{display: inline;
+list-style: none;}
 
 
 
