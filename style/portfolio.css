@@ -13,7 +13,7 @@
 .hero h1 {
     font-family: 'Playfair Display',
         serif;
-    font-size: 96px;
+    font-size: 75px;
     color: #000000;
 }
 
@@ -47,7 +47,7 @@ h2{font-family:'Playfair Display',
     {.project-description{padding: 0;
     text-align: center;}
 h1{font-size: 60px;}
-h2{font-size: 48px;}
+h2{font-size: 40px;}
 .hero{padding: 80px 20px;}}
 .content-container h1{font-size: 64px;}
 .content-container h2{font-size: 24px;
